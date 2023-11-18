@@ -1,0 +1,128 @@
+
+
+body{
+	background: url('bg.png');
+}
+
+.big p{
+	position: relative;
+	top: 1500px;
+}
+
+.title img{
+	position:absolute;
+	left:750px;
+	top:90px;
+}
+
+.title p{
+	position:absolute;
+	left: 135px;
+	top:45px;
+	font-size: 70px;
+	color: white;
+}
+
+.title2 p{
+	font-size: 35px;
+	color: white;
+}
+
+.title2 img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.title3{
+	background-color: white;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+.title4{
+	background-color: white;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	color: black;
+	background-color: white;
+}
+
+.title5{
+	background-color: white;
+}
+
+.title5 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+.downfile1{
+	width:450px;
+	height: 350px;
+	border-radius: 12px;
+}
+
+.downfile1 button{
+	position:absolute;
+	text-decoration: none;
+	color: white;
+	background-color: royalblue;
+	left: 150px;
+	top: 280px;
+	font-size: 40px;
+	border-radius: 4px;
+	width: 200px;
+}
+
+.downfile2{
+	width:450px;
+	height: 350px;
+	border-radius: 12px;
+}
+
+.downfile2 button{
+	position:absolute;
+	text-decoration: none;
+	color: white;
+	background-color: royalblue;
+	left: 150px;
+	top: 350px;
+	font-size: 40px;
+	border-radius: 4px;
+	width: 200px;
+}
+
+.show_code a{
+	position: absolute;
+	text-decoration: None;
+	color: white;
+	left:40%;
+	top: 3400px;
+	font-size: 40px;
+	background-color: black;
+	border-radius: 10px;
+}
+
+.about span{
+	position: relative;
+	top:1472px;
+	color: white;
+	left: 40%;
+	font-size: 15px;
+}

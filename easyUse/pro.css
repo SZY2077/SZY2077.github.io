@@ -1,0 +1,92 @@
+body{
+	background-color: dimgrey;
+}
+
+.title img{
+	position:absolute;
+	left:750px;
+	top:10px;
+}
+
+.title p{
+	position:absolute;
+	left:150px;
+	top:5px;
+	font-size: 70px;
+}
+
+.title2 p{
+	font-size: 35px;
+}
+
+.title2 img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.title3{
+	background-color: white;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+
+.title4{
+	background-color: white;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	color: black;
+	background-color: white;
+}
+
+.title5{
+	background-color: white;
+}
+
+.title5 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+
+.downfile{
+	width:450px;
+	height: 350px;
+	border-radius: 12px;
+	border-radius: 10px;
+}
+
+.downfile button{
+	position:absolute;
+	text-decoration: none;
+	color: white;
+	background-color: royalblue;
+	left: 150px;
+	top: 280px;
+	font-size: 40px;
+	border-radius: 3px;
+	width: 200px;
+}
+
+.about p{
+	position: absolute;
+	left: 150px;
+	top: 350px;
+	font-size: 20px;
+}

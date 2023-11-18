@@ -1,0 +1,87 @@
+*{
+	background-color: whitesmoke;
+}
+
+.title img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.title p{
+	position: relative;
+	top: 10px;
+	left: 47%;
+	font-size: 50px;
+}
+
+.title2 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	color: black;
+	text-decoration: None;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	color: black;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	color: black;
+	text-decoration: None;
+}
+
+.easyUse a{
+	position: absolute;
+	top:200px;
+	left: 20%;
+	text-decoration: None;
+	color: blue;
+}
+
+.pyEBG a{
+	position: absolute;
+	top: 200px;
+	left:40%;
+	text-decoration: None;
+	color: blue;
+}
+
+.Hardows a{
+	position: absolute;
+	top: 200px;
+	left: 70%;
+	text-decoration: None;
+	color: blue;
+}
+
+.SimpleSafe a{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	text-decoration: None;
+	color: bulue;
+}
+
+.tideFiler a{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	text-decoration: None;
+	color: bulue;
+}
+
+.copyright span{
+	position: absolute;
+	top: 1000px;
+	color: black;
+	left: 40%;
+	font-size: 15px;
+}

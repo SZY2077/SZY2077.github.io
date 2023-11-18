@@ -1,0 +1,113 @@
+*{
+	background-color: whitesmoke;
+}
+
+.title p{
+	position: absolute;
+	top:20px;
+	left:40px;
+	font-size: 80px;
+}
+
+.title li{
+	position: absolute;
+	top: 190px;
+	left:40px;
+	list-style: None;
+	font-size:30px;
+}
+
+.title img{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.img1{
+	position: relative;
+	top: 20px;
+	left:1000px;
+}
+
+.downfile p{
+	position: relative;
+	color: black;
+	left: 80px;
+	font-size: 50px;
+}
+
+.downfile a{
+	position: relative;
+	text-decoration: None;
+	color: blue;
+	left:80px;
+}
+
+.key p{
+	position: relative;
+	color: black;
+	left: 80px;
+	font-size: 50px;
+}
+
+.key li{
+	position: relative;
+	list-style: None;
+	font-size: 30px;
+	left:80px;
+}
+
+.about p{
+	position: relative;
+	color: black;
+	left: 80px;
+	font-size: 50px;
+}
+
+.about li{
+	position: relative;
+	list-style: None;
+	font-size: 30px;
+	left:80px;
+}
+
+.video p{
+	position: relative;
+	left:90px;
+	font-size: 50px;
+}
+
+.video a{
+	position: relative;
+	left:90px;
+}
+
+.title2 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	color: black;
+	text-decoration: None;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	color: black;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	color: black;
+	text-decoration: None;
+}
+
+.about span{
+	position: relative;
+	top:360px;
+	left: 40%;
+	font-size: 15px;
+}
