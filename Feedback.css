@@ -45,3 +45,10 @@
 	left: 30%;
 	font-size: 30px;
 }
+
+.mainText a{
+	top: 300px;
+	left:30%;
+	font-size: 30px;
+	text-decoration: None;
+}
