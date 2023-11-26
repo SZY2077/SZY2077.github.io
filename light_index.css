@@ -115,6 +115,14 @@
 	left:30%;
 }
 
+.title24 a{
+	position:relative;
+	font-size: 20px;
+	left:30%;
+	text-decoration: None;
+	color: blue;
+}
+
 .title25 p{
 	position: relative;
 	text-align: left;
