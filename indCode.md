@@ -1,8 +1,12 @@
+更新时间:2023/12/10
+
 easyUse个人版源代码
 =
 链接
 -
-[返回首页](szy2077.github.io)[返回至easyUse](szy2077.github.io/easyUse/index.html)[产品](szy2077.github.io\things.html)
+[返回首页](szy2077.github.io)[返回至easyUse]
+(szy2077.github.io/easyUse/index.html)
+[产品](szy2077.github.io\things.html)
 
 源代码
 -
