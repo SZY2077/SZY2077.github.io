@@ -108,22 +108,11 @@ body{
 	width: 200px;
 }
 
-.show_code a{
-	position: absolute;
-	text-decoration: None;
-	color: white;
-	left:40%;
-	top: 3400px;
-	font-size: 40px;
-	background-color: black;
-	border-radius: 10px;
-}
-
 .indcode a{
 	position: absolute;
 	text-decoration: None;
 	left: 40%;
-	top: 3400px;
+	top: 3100px;
 }
 
 .about span{
