@@ -119,10 +119,17 @@ body{
 	border-radius: 10px;
 }
 
+.indcode a{
+	position: absolute;
+	text-decoration: None;
+	left: 40%;
+	top: 3400px;
+}
+
 .about span{
 	position: relative;
 	top:1472px;
 	color: white;
 	left: 40%;
-	font-size: 15px;
+	font-size: 
 }
