@@ -32,23 +32,13 @@
 	left: 800px;
 }
 
-.title2{
-	color: white;
-	background-color: white;
-}
-
 .title2 a{
 	position: absolute;
 	top: 3px;
 	left: 85%;
 	text-decoration: None;
-	background-color: white;
-	color: black;
-}
-
-.title3{
+	background-color: #272727;
 	color: white;
-	background-color: white;
 }
 
 .title3 a{
@@ -56,13 +46,8 @@
 	top: 3px;
 	left: 90%;
 	text-decoration: None;
-	background-color: white;
-	color:black;
-}
-
-.title4{
-	color: white;
-	background-color: white;
+	background-color: #272727;
+	color:white;
 }
 
 .title4 a{
@@ -70,8 +55,8 @@
 	top: 3px;
 	left: 95%;
 	text-decoration: None;
-	background-color: white;
-	color:black;
+	background-color: #272727;
+	color:white;
 }
 
 .download p{
