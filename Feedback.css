@@ -1,0 +1,55 @@
+*{
+	background-color: whitesmoke;
+}
+
+.title img{
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+.pic1 img{
+	position:absolute;
+	left:70%;
+	top:45px;
+}
+
+.title2 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	color: black;
+	text-decoration: None;
+	background-color: white;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	color: black;
+	background-color: white;
+}
+
+.mainText p{
+	top: 300px;
+	left: 30%;
+	font-size: 30px;
+}
+
+.mainText a{
+	top: 300px;
+	left:30%;
+	font-size: 30px;
+	text-decoration: None;
+	color: blue;
+}

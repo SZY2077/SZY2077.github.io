@@ -1,0 +1,150 @@
+*{
+	background-color: #272727;
+}	
+
+.pic1 img{
+	position:relative;
+	top: 10px;
+	left: 0px;
+}
+
+.pic1 p{
+	position: absolute;
+	top: -2px;
+	left: 40px;
+	color:white;
+	size: 80;
+}
+
+.title2 a{
+	position: absolute;
+	top: 3px;
+	left: 85%;
+	background-color: white;
+	color: black;
+}
+
+.title3 a{
+	position: absolute;
+	top: 3px;
+	left: 90%;
+	text-decoration: None;
+	background-color: white;
+	color:black;
+}
+
+.title4 a{
+	position: absolute;
+	top: 3px;
+	left: 95%;
+	text-decoration: None;
+	background-color: white;
+	color:black;
+}
+
+.title21 p{
+	position: relative;
+	text-align: left;
+	align: left;
+	display: block;
+	font-size: 60px;
+	left:30%;
+	color:white;
+}
+.title21 li{
+	position: relative;
+	font-size:20px;
+	left: 30%;
+	list-style: circle;
+	color:white;
+}
+
+.title22 p{
+	position: relative;
+	text-align: left;
+	align: left;
+	display: block;
+	font-size: 60px;
+	left: 30%;
+	list-style: none;
+	color:white;
+}
+
+.title22 li{
+	position: relative;
+	font-size:20px;
+	left: 30%;
+	list-style: none;
+	color:white;
+}
+
+.title23 p{
+        position: relative;
+	text-align: left;
+	align: left;
+	display:block;
+	font-size: 60px;
+	left:30%;
+	color:white;
+}
+
+.title23 li{
+	position:relative;
+	font-size: 20px;
+	left:30%;
+	color:white;
+}
+
+.title24 p{
+        position: relative;
+	text-align: left;
+	align: left;
+	display:block;
+	font-size: 60px;
+	left:30%;
+	color:white;
+}
+
+.title24 li{
+	position:relative;
+	font-size: 20px;
+	left:30%;
+	color:white;
+}
+
+.title24 a{
+	position:relative;
+	font-size: 20px;
+	left:30%;
+	color: white;
+}
+
+.title25 p{
+	position: relative;
+	text-align: left;
+	align: left;
+	display:block;
+	font-size: 60px;
+	left:30%;
+	color:white;
+}
+
+.title25 li{
+	position: relative;
+	font-size: 20px;
+	left:30%;
+	color:white;
+}
+
+.about span{
+	position: relative;
+	top:360px;
+	left: 40%;
+	font-size: 15px;
+	color: white;
+}
+
+.music iframe{
+	position: relative;
+	top: 400px;
+}

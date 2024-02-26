@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Tiderner</title>
+		<link href="dark_index.css" rel="stylesheet">
+		<link rel="icon" href="favicon.ico" type ="image/x-icon">
+	</head>
+	<body>
+		<div class="title">
+			<img src="favicon.ico" height=25>
+		</div>
+		
+		<div class="pic1">
+			<img src="gt1.png" height=550 width=1550>
+			<p>Tiderner</p>
+		</div>
+		
+		<div class="title2">
+			<a href="#" id="1">首页</a>
+		</div>
+		
+		<div class="title3">
+			<a href="#" id="2">产品</a>
+		</div>
+		
+		<div class="title4">
+			<a href="#" id="3">关于</a>
+		</div>
+		
+		<div class="title21" id="title21">
+			<p>工作室动态</p>
+			<li>网页版本更新至v2.3.7                                      --2024.2.15</li>
+			<li>tideCoder1.2.5开发成功!除夕快乐!                               --2024.2.9</li>
+			<li>网页版权更改(我原本是SZY,但是因为名字已被占用才改名为SZY2077)    --2024.2.1</li>
+		</div>
+		
+		<div class="title22" id="title22">
+			<p>加入我们</p>
+			<li>1.可以用下面"联系我们"栏目的所有方式来发送信息</li>
+			<li>2.通过审核</li>
+			<li>3.填写加入信息</li>
+			<li>4.完成</li>
+		</div>
+
+		<div class="title23" id="title23">
+		    <p>特点</p>
+			<li>软件无广告,无弹窗</li>
+			<li>某些软件需要付费</li>
+			<li>只有周末，星期5在线</li>
+		</div>
+
+		<div class="title24" id="title24">
+			<p>联系我们</p>
+			<li>邮箱：18116231008@163.com</li>
+			<li>github:szy2077(名称)</li>
+			<a href="https://pan.huang1111.cn/s/8wZ6hQ">点击此处下载微信二维码图片zip</a>
+		</div>
+		
+		<div class="title25" id="title25">
+			<p>工作室历史</p>
+			<li>创建网站 -2023.8.10</li>
+			<li>开放软件 -2023.8.23</li>
+			<li>Hardows诞生 -2023.9.11</li>
+			<li>室员增加 -2023.9.29</li>
+			<li>正式更名 -2023.10.2</li>
+		</div>
+		
+		<div class="about">
+			<span>
+				© 2022-2024 Tiderner,Powered by SZY
+			</span>
+		</div>
+
+		<div class="music">
+			<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=519476330&auto=1&height=66"></iframe>
+		</div>
+		
+		<script type="text/javascript">
+			var s = 0;
+			
+			function loadStyles(fname) {
+			  var link = document.createElement('link');
+			  link.rel = 'stylesheet';
+			  link.type = 'text/css';
+			  link.href = fname
+			  document.getElementsByTagName('head')[0].appendChild(link);
+			}
+			
+			function removeStyles(fname){
+			  var filename = fname;
+			  var targetelement = "link";
+			  var targetattr = "href";
+			  var allsuspects = document.getElementsByTagName(targetelement)
+			  for (var i = allsuspects.length; i>=0 ; i--){
+			    if (allsuspects[i] && allsuspects[i].getAttribute(targetattr) != null && allsuspects[i].getAttribute(targetattr).indexOf(filename) != -1) {
+			      allsuspects[i].parentNode.removeChild(allsuspects[i])
+			    }
+			  }
+			}
+			//load title<a>
+			var tidernerMainPage="https://SZY2077.github.io/";
+			document.getElementById("1").setAttribute('href', tidernerMainPage);
+			document.getElementById("2").setAttribute('href', tidernerMainPage+"things.html");
+			document.getElementById("3").setAttribute('href', tidernerMainPage+"Feedback.html");
+			
+		</script>
+		
+	</body>
+</html>
