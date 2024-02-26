@@ -13,6 +13,7 @@
 	top: 10px;
 	left: 47%;
 	font-size: 50px;
+	color: white;
 }
 
 .title2 a{
@@ -21,6 +22,7 @@
 	left: 85%;
 	color: white;
 	text-decoration: None;
+	background-colour:#272727;
 }
 
 .title3 a{
@@ -28,6 +30,7 @@
 	top: 3px;
 	left: 90%;
 	color: white;
+	background-colour:#272727;
 }
 
 .title4 a{
@@ -36,6 +39,7 @@
 	left: 95%;
 	color: white;
 	text-decoration: None;
+	background-colour:#272727;
 }
 
 .Hardows a{
