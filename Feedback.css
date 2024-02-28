@@ -28,7 +28,7 @@
 	left: 85%;
 	color: white;
 	text-decoration: None;
-	background-color: white;
+	background-color: #272727;
 }
 
 .title3 a{
@@ -37,7 +37,7 @@
 	left: 90%;
 	color: white;
 	text-decoration: None;
-	background-color: white;
+	background-color: #272727;
 }
 
 .title4 a{
@@ -45,19 +45,19 @@
 	top: 3px;
 	left: 95%;
 	color: white;
-	background-color: white;
+	background-color: #272727;
 }
 
 .mainText p{
 	top: 300px;
 	left: 30%;
 	font-size: 30px;
+	color: white;
 }
 
 .mainText a{
 	top: 300px;
 	left:30%;
 	font-size: 30px;
-	text-decoration: None;
-	color: blue;
+	color: white;
 }
