@@ -2,14 +2,6 @@
 	background-color: #272727;
 }	
 
-.rtitle p{
-	position: absolute;
-	top: -2px;
-	left: 40px;
-	color:white;
-	size: 80;
-}
-
 .title p{
 	position: relative;
 	top:90px;
