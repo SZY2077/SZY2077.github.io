@@ -1,8 +1,15 @@
 tiderner官方网站项目
 ==============================
-[立刻前往tiderner官网](szy2077.github.io)
-该网页创建于2023.8.5,完全由szy制作.如有bug
+[立刻前往tiderner官网](https://szy2077.github.io)
+该网页创建于2023.8.5,完全由szy2077制作.如有bug
 请立即反馈.
+
+<details>
+<summary>查看所有产品</summary>
+·Hardows
+·SimpleSafe
+·tideCoder
+</details>
 
 名称变化
 ==============================
