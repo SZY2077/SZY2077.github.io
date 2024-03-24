@@ -86,6 +86,14 @@
 	color:white;
 }
 
+.title23 a{
+	position:relative;
+	font-size: 20px;
+	left:30%;
+	color:white;
+	text-decoration: white;
+}
+
 .about span{
 	position: relative;
 	top:360px;
