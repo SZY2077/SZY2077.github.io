@@ -69,7 +69,6 @@
 	list-style: none;
 	color:white;
 }
-
 .title23 p{
         position: relative;
 	text-align: left;
@@ -82,47 +81,6 @@
 
 .title23 li{
 	position:relative;
-	font-size: 20px;
-	left:30%;
-	color:white;
-}
-
-.title24 p{
-        position: relative;
-	text-align: left;
-	align: left;
-	display:block;
-	font-size: 60px;
-	left:30%;
-	color:white;
-}
-
-.title24 li{
-	position:relative;
-	font-size: 20px;
-	left:30%;
-	color:white;
-}
-
-.title24 a{
-	position:relative;
-	font-size: 20px;
-	left:30%;
-	color: white;
-}
-
-.title25 p{
-	position: relative;
-	text-align: left;
-	align: left;
-	display:block;
-	font-size: 60px;
-	left:30%;
-	color:white;
-}
-
-.title25 li{
-	position: relative;
 	font-size: 20px;
 	left:30%;
 	color:white;
