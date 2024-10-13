@@ -9,6 +9,7 @@ tiderner官方网站项目
 ·Hardows
 ·SimpleSafe
 ·tideCoder
+·lightBrowser
 </details>
 
 名称变化
