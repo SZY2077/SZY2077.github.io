@@ -70,6 +70,13 @@
 	color: white;
 }
 
+.trAsst a{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	color: white;
+}
+
 .copyright span{
 	position: absolute;
 	top: 1000px;
