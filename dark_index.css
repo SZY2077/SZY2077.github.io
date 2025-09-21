@@ -1,11 +1,41 @@
 *{
 	background-color: #272727;
 }	
-
+p{
+	color:white;
+}
+@keyframes slidein1{
+	from{
+		left:100%;
+	}
+	to{
+		left:0%;
+	}
+}
+@keyframes slidein2{
+	from{
+		top:100%;
+	}
+	to{
+		top:0%;
+	}
+}
+.title img{
+	position:relative;
+	animation-duration: 0.5s;
+	animation-name: slidein1;
+}
 .pic1 img{
 	position:relative;
 	top: 10px;
 	left: 0px;
+}
+.pic1 p{
+	position:relative;
+	left:200px;
+	font-size: 50px;
+	color:dodgerblue;
+	text-shadow: 0 5px 20px royalblue;
 }
 
 .title2 a{
@@ -14,8 +44,9 @@
 	left: 85%;
 	background-color: #272727;
 	color: white;
+	animation-duration: 0.5s;
+	animation-name: slidein2;
 }
-
 .title3 a{
 	position: absolute;
 	top: 3px;
@@ -23,6 +54,8 @@
 	text-decoration: None;
 	background-color: #272727;
 	color:white;
+	animation-duration: 0.6s;
+	animation-name: slidein2;
 }
 
 .title4 a{
@@ -32,6 +65,8 @@
 	text-decoration: None;
 	background-color: #272727;
 	color:white;
+	animation-duration: 0.7s;
+	animation-name: slidein2;
 }
 
 .title21 p{
@@ -50,7 +85,6 @@
 	list-style: circle;
 	color:white;
 }
-
 .title22 p{
 	position: relative;
 	text-align: left;
@@ -61,7 +95,6 @@
 	list-style: none;
 	color:white;
 }
-
 .title22 li{
 	position: relative;
 	font-size:20px;
