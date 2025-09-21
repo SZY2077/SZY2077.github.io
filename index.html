@@ -10,9 +10,10 @@
 		<div class="title">
 			<img src="title.png" height=30>
 		</div>
-		
 		<div class="pic1">
-			<img src="gt1.png" height=550 width=1550>
+			<!img src="gt1.png" height=550 width=1550>
+			<p id="titleP">=)</p>
+			
 		</div>
 		
 		<div class="title2">
@@ -63,6 +64,9 @@
 		
 		<script type="text/javascript">
 			var s = 0;
+			var titleStr="欢迎来到tiderner官网！";
+			var titleNT="";
+			var titleI=0;
 			
 			function loadStyles(fname) {
 			  var link = document.createElement('link');
@@ -83,11 +87,21 @@
 			    }
 			  }
 			}
+			function ShowtitleP9(){
+				if(titleI<titleStr.length){
+					var titlep=document.getElementById("titleP")
+					titleNT+=titleStr[titleI];
+					titlep.textContent=titleNT;
+					titleI++;
+					setTimeout(ShowtitleP9,50);
+				}
+			}
 			//load title<a>
 			var tidernerMainPage="https://SZY2077.github.io/";
 			document.getElementById("1").setAttribute('href', tidernerMainPage);
 			document.getElementById("2").setAttribute('href', tidernerMainPage+"things.html");
 			document.getElementById("3").setAttribute('href', tidernerMainPage+"Feedback.html");
+			ShowtitleP9();
 		</script>
 		
 	</body>
